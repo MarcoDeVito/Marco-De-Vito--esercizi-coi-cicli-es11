@@ -14,3 +14,6 @@
       - se inserisce 3, seleziona birra e quindi stampare in console: “E’ stata selezionata birra”
       - se inserisce qualcosa di diverso, il programma dovra’ riproporre automaticamente la domanda di partenza
 
+Commenti sugli es:
+
+Invece del while ho usato il do while perchè si presta di più allo scopo di poter entrare almeno una volta nel ciclo sempre e non dover così scrivere 2 volte la stessa riga di codice prima dentro e poi fuori dal ciclo.
